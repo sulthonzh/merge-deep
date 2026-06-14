@@ -1,0 +1,15 @@
+{
+  "name": "merge-deep",
+  "version": "1.0.0",
+  "description": "Zero-dep deep merge for objects and arrays with circular ref detection, custom merge strategies, and immutable by default",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "mergedeep": "cli.js"
+  },
+  "scripts": {
+    "test": "node --test test.js"
+  },
+  "keywords": ["merge", "deep-merge", "recursive", "immutable", "objects", "arrays"],
+  "license": "MIT"
+}
