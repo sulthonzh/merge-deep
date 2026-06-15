@@ -10,6 +10,17 @@
   "scripts": {
     "test": "node --test test.js"
   },
-  "keywords": ["merge", "deep-merge", "recursive", "immutable", "objects", "arrays"],
-  "license": "MIT"
+  "keywords": [
+    "merge",
+    "deep-merge",
+    "recursive",
+    "immutable",
+    "objects",
+    "arrays"
+  ],
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "cli.js"
+  ]
 }
