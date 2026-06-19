@@ -22,5 +22,17 @@
   "files": [
     "index.js",
     "cli.js"
-  ]
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sulthonzh/merge-deep"
+  },
+  "homepage": "https://github.com/sulthonzh/merge-deep#readme",
+  "bugs": {
+    "url": "https://github.com/sulthonzh/merge-deep/issues"
+  },
+  "author": "sulthonzh"
 }
