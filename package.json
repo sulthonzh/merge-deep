@@ -34,5 +34,8 @@
   "bugs": {
     "url": "https://github.com/sulthonzh/merge-deep/issues"
   },
-  "author": "sulthonzh"
+  "author": "sulthonzh",
+  "publishConfig": {
+    "access": "public"
+  }
 }
