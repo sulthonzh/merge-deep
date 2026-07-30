@@ -6,5 +6,8 @@ __pycache__/
 .venv/
 *.egg-info/
 .mypy_cache/
- .env.* *.log .DS_Store coverage/
+.env.*
+*.log
+.DS_Store
+coverage/
 *.tgz
